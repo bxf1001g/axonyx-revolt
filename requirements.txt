@@ -1,0 +1,27 @@
+# Core AI
+anthropic>=0.39.0
+
+# Windows Automation
+pywinauto>=0.6.8
+pyautogui>=0.9.54
+pywin32>=306
+psutil>=5.9.8
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+rich>=13.7.0
+
+# API Server (for GUI)
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# Browser Automation (Optional - choose one or both)
+selenium>=4.15.0  # Selenium for browser automation
+# playwright>=1.40.0  # Playwright (uncomment to use)
+requests>=2.31.0  # HTTP requests for downloads
+
+# OCR and Screen Reading
+pytesseract>=0.3.10  # OCR text extraction
+pillow>=10.0.0  # Image processing for screenshots
+# opencv-python>=4.8.0  # For computer vision tasks

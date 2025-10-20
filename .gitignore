@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Flutter/Dart
+axonyx_gui/build/
+axonyx_gui/.dart_tool/
+axonyx_gui/.flutter-plugins
+axonyx_gui/.flutter-plugins-dependencies
+axonyx_gui/.packages
+axonyx_gui/pubspec.lock
+
+# Test files
+Desktop/
+tests/__pycache__/
+check_duplicates.py
+
+# Screenshots
+screenshots/
+*.png
+*.jpg
+
+# Temp files
+*.tmp
+*.bak

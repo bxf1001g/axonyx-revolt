@@ -1,0 +1,45 @@
+name: axonyx_gui
+description: Beautiful modern frameless GUI for Axonyx Revolt Windows Agent
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # UI & Styling
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.3.0
+  glassmorphism: ^3.0.0
+  
+  # Window Management
+  window_manager: ^0.3.7
+  bitsdojo_window: ^0.1.6
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # HTTP & WebSocket
+  http: ^1.1.0
+  web_socket_channel: ^2.4.0
+  
+  # Utils
+  uuid: ^4.2.1
+  intl: ^0.19.0
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
