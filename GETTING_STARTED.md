@@ -33,7 +33,7 @@ You should see Python 3.12 or higher. If not, install Python first.
 #### Step 2: Clone Repository
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/axonyx-revolt.git
+git clone https://github.com/bxf1001g/axonyx-revolt.git
 cd axonyx-revolt
 ```
 

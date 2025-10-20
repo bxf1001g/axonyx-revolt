@@ -87,7 +87,7 @@ Get your API key from [Anthropic Console](https://console.anthropic.com/)
 #### **Option 1: Automated Setup (Recommended)**
 ```powershell
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/axonyx-revolt.git
+git clone https://github.com/bxf1001g/axonyx-revolt.git
 cd axonyx-revolt
 
 # Run automated setup
@@ -103,7 +103,7 @@ This automatically:
 #### **Option 2: Manual Setup**
 ```powershell
 # 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/axonyx-revolt.git
+git clone https://github.com/bxf1001g/axonyx-revolt.git
 cd axonyx-revolt
 
 # 2. Create virtual environment
@@ -399,8 +399,8 @@ See [docs/CORRECT_MODEL_IDS.md](./docs/CORRECT_MODEL_IDS.md) for details.
 
 ## 📧 **Contact**
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/axonyx-revolt/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/axonyx-revolt/discussions)
+- **Issues**: [GitHub Issues](https://github.com/bxf1001g/axonyx-revolt/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/bxf1001g/axonyx-revolt/discussions)
 
 ---
 
